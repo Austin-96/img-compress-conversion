@@ -1,0 +1,12 @@
+{
+  "name": "img-compress-conversion",
+  "version": "1.0.0",
+  "description": "A plug-in for compressing images and different formats conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["图片压缩","批量图片压缩工具", "格式转换", "compress images"],
+  "author": "shaoting",
+  "license": "ISC"
+}
